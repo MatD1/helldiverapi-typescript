@@ -1,0 +1,1 @@
+# helldiverapi-typescript
